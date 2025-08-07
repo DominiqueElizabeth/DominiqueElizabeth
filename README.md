@@ -37,7 +37,7 @@
 - 📍 São Paulo, Brasil  
 - 💻 Focada em desenvolver projetos reais com Python e análise de dados
 - 🤖 Paixão por IA
-- 📈 Repositório com meus projetos: [Data-Analysis-Portfolio](https://github.com/DominiqueElizabeth/Data-Analysis-Portfolio)
+- 📈 Repositório com meus projetos: [Data-Analysis-Portfolio](https://github.com/DominiqueElizabeth/Data_Analysis_Portfolio)
 
 ---
 ![Português](https://img.shields.io/badge/Português-Nativo-green?style=for-the-badge)
