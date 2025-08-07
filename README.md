@@ -4,6 +4,8 @@
   👩‍💻 Estudante de Engenharia da Computação | 📊 Foco em Data Analysis com Python
   
   ![Estudando Data Science](https://img.shields.io/badge/📚_Estudando-Data_Science-blueviolet?style=for-the-badge)
+  ![Estudando Sistemas Digitais](https://img.shields.io/badge/📚_Estudando-Sistemas_Digitais-blueviolet?style=for-the-badge)
+  ![Estudando Eletrônica Industrial](https://img.shields.io/badge/📚_Estudando-Eletrônica_Industrial-ff69b4?style=for-the-badge)
 
 </p>
 
@@ -16,16 +18,16 @@
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0F1117?style=for-the-badge&logo=python&logoColor=blue)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=black)
 
 ---
 
 ### 💻 Ambientes e Ferramentas
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
